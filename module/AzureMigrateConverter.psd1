@@ -5,10 +5,10 @@
     ModuleVersion = '1.0.0'
 
     # Author of the module
-    Author = 'Your Name'
+    Author = 'Troy Hite'
 
     # Company name
-    CompanyName = 'Your Company'
+    CompanyName = 'Microsoft'
 
     # Description of the module
     Description = 'A PowerShell module for converting RVTools data to Azure Migrate CSV format.'
@@ -32,7 +32,7 @@
     PrivateData = @{
         PSData = @{
             # Project URL
-            ProjectUri = 'https://github.com/YourUsername/AzureMigrateConverter'
+            ProjectUri = 'https://github.com/troyhite/rvtools2azuremigratePS'
 
             # License information
             LicenseUri = 'https://opensource.org/licenses/MIT'
